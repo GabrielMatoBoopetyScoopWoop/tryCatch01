@@ -1,0 +1,6 @@
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\bin\Debug\tryCatch01.exe.config
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\bin\Debug\tryCatch01.exe
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\bin\Debug\tryCatch01.pdb
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\obj\Debug\tryCatch01.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\obj\Debug\tryCatch01.exe
+C:\Users\Učenik 4\source\repos\tryCatch01\tryCatch01\obj\Debug\tryCatch01.pdb
